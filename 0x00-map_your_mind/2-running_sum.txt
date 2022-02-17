@@ -1,0 +1,9 @@
+	1.	Take number n
+	2.	initialize variable “sum”
+	3.	loop through from i through n
+	4.	if i <= n
+	5.	add i to variable “sum”
+	6.	increment i by one 
+	7.	if i <= n go to step 4, else
+	8.	return the variable “sum”
+	9.	Exit

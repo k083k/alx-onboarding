@@ -1,0 +1,7 @@
+	1.	Take number n
+	1.	loop through from i through n
+	2.	if i <= n
+	3.	print i
+	4.	increment i by 3 
+	5.	if i <= n go to step 3 else
+	7.	Exit
