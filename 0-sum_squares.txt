@@ -1,0 +1,5 @@
+	•	Take n number given inputs
+	•	create n number of variables 
+	•	store the square of each input in each variable respectively
+	•	add the values of the sums in the created Variables
+	•	Return the Sum
